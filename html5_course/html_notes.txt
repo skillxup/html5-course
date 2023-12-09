@@ -1,0 +1,72 @@
+-> What is HTML?
+    - Hyper Text Markup Language
+    - Create a Structure of a Web Page
+    - Content: Text, Images, Media Objects, Forms, Lists, Links 
+
+-> How??
+    - 2 Important Terms:
+        1. Elements (Tag)
+            - Representation of a Content
+            - 2 Types of Elements
+                1. Block
+                    <elementName>
+                        ......
+                        ......
+                    </elementName>
+
+                    eg., div, p, h1 to h6, etc., 
+
+                2. Inline 
+                    <elementName />
+
+                    eg., <img />, <input /> etc.,
+
+        2. Attributes
+            - Represent the Characteristics of an Element
+            - 2 Types of Elements
+                1. Block
+                    <elementName attributeName = "itsValue" attributeName>
+                        ......
+                        ......
+                    </elementName>
+
+                    eg., div, p, h1 to h6, etc., 
+
+                2. Inline 
+                    <elementName  attributeName = "itsValue" attributeName />
+
+                    eg., <img />, <input /> etc.,
+
+-> formatting elements:
+    p, h1 to h6, strong, u, i, a, img, br
+
+-> listings:
+    1. order list
+    2. unorder list
+    3. definition list
+
+-> table:
+-> form:
+
+in how many methods that we can submit the form data:
+    1. get - query string
+    2. post
+
+-> media objects:
+    video & audio
+
+-> div and span
+-> semantic elements
+    header
+    footer
+    main
+    - section
+    -- article
+    - aside
+    nav
+    video
+    audio
+    figure
+    figcaption
+
+-> differences between html4 and html5
